@@ -1,0 +1,3 @@
+terraform aws vpc module
+https://www.google.com/search?q=terraform+aws+vpc+module&rlz=1C1GCEA_enDE963DE963&oq=terraform+aws+vpc+module&aqs=chrome..69i57j0i20i263i512j0i512j0i22i30l2j0i10i22i30j0i22i30j69i60.752j0j7&sourceid=chrome&ie=UTF-8
+https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest

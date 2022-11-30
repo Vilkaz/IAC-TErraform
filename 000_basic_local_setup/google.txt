@@ -1,0 +1,5 @@
+terraform basic example
+
+https://www.google.com/search?q=terraform+basic+example&rlz=1C1GCEA_enDE963DE963&sxsrf=ALiCzsY4LAfFmuYo0gzaoP2gp8F6c13D-g%3A1669810151526&ei=50eHY9LfH9SKi-gP-8CC0Ak&ved=0ahUKEwiS77HH79X7AhVUxQIHHXugAJoQ4dUDCA8&uact=5&oq=terraform+basic+example&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBggAEAgQHjIGCAAQCBAeMgUIABCGAzIFCAAQhgM6CggAEEcQ1gQQsAM6BggAEAcQHjoHCAAQgAQQDToICAAQCBAHEB5KBAhBGABKBAhGGABQ0gZYmQtgrw5oAnABeACAAUuIAYMDkgEBNpgBAKABAcgBCMABAQ&sclient=gws-wiz-serp
+
+https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180

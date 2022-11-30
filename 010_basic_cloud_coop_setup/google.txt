@@ -1,0 +1,9 @@
+terraform backend aws s3
+
+https://www.google.com/search?q=terraform+backend+aws+s3&rlz=1C1GCEA_enDE963DE963&sxsrf=ALiCzsafZKZICC3jXWH48qeVhHKGAsNivQ%3A1669810722940&ei=IkqHY9ftOIzYkwXnmInwBg&oq=terraform+backend+aws&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgQIIxAnMgoIABCABBCHAhAUMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoKCAAQRxDWBBCwAzoECAAQQzoFCAAQkQI6BQgAEIAESgQIQRgASgQIRhgAUJkCWIAPYLwXaAFwAXgAgAFXiAHsBZIBAjEymAEAoAEByAEIwAEB&sclient=gws-wiz-serp
+
+https://developer.hashicorp.com/terraform/language/settings/backends/s3
+
+aws terraform ec2 instance
+https://www.google.com/search?q=aws+terraform+ec2+instance&rlz=1C1GCEA_enDE963DE963&oq=aws+terraform+ec2+instance&aqs=chrome.0.0i512j0i22i30l9.4473j0j7&sourceid=chrome&ie=UTF-8
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
